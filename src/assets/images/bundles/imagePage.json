@@ -2,16 +2,16 @@
     {
         "name": "Test Image 1",
         "desc": "A sunflower in an orange glow.",
-        "src": "./assets/images/AfterlightImage.png"
+        "src": "./assets/images/AfterlightImage.jpg"
     },
     {
         "name": "Test Image 2",
         "desc": "A warm image of flowers.",
-        "src": "./assets/images/IMG_4192-1.png"
+        "src": "./assets/images/IMG_4192-1.jpg"
     },
     {
         "name": "Test Image 3",
         "desc": "A warm image of purple flowers where the purple colors are highlighted.",
-        "src": "./assets/images/IMG_4198-1.png"
+        "src": "./assets/images/IMG_4198-1.jpg"
     }
 ]

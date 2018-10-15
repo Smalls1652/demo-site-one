@@ -148,7 +148,7 @@ class App extends Component {
                     <Jumbotron>
                       <Row>
                         <Col>
-                          <img src={require('./assets/images/IMG_4238-1.png')} className="inline-img inline-img-size-sm inline-img-float-right py-2" alt="" />
+                          <img src={require('./assets/images/IMG_4238-1.jpg')} className="inline-img inline-img-size-sm inline-img-float-right py-2" alt="" />
                           <Welcome />
                           <Homemore />
                         </Col>
