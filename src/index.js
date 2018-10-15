@@ -1,8 +1,19 @@
+///React imports
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+///Imports for Bootstrap 4.1.
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'jquery/dist/jquery.slim';
+import 'popper.js';
+import 'bootstrap/dist/js/bootstrap.min.js';
+
+///Import css files
+import './assets/css/main.css';
+import './assets/css/images.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

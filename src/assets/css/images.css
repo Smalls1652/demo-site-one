@@ -1,0 +1,58 @@
+.inline-img {
+    display: inline-flex;
+}
+
+.inline-img-size-full {
+    width: 100%;
+    height: 100%;
+}
+
+.inline-img-size-sm {
+    width: 19em;
+}
+
+@media only screen and (min-width: 768px)  {
+    .inline-img-float-right, .inline-img-float-right::after {
+        float: right;
+        padding-left: .5em;
+    }
+    .inline-img-float-left, .inline-img-float-left::after {
+        float: left;
+        padding-right: .5em;
+    }
+}
+@media only screen and (max-width: 767px) {
+    img[class^='inline-img-float-'], img[class^='inline-img-float-']::after {
+        float: none;
+        clear: both;
+        padding-left: 0em;
+        padding-right: 0em;
+    }
+}
+.homeImg {
+    content: url('../images//IMG_4238-1.png');
+}
+
+.img-page-one {
+    content: url('../images/AfterlightImage.png');
+}
+
+.img-page-two {
+    content: url('../images/IMG_4192-1.png');
+}
+
+.img-page-three {
+    content: url('../images/IMG_4198-1.png');
+}
+
+.aboutUs-pic-1, .aboutUs-pic-1::after {
+    content: url('../images/save-new.png');
+}
+
+.aboutUs-pic-2, .aboutUs-pic-2::after {
+    content: url('../images/IMG_3830.png');
+}
+
+.img-pointer {
+    cursor: pointer;
+}

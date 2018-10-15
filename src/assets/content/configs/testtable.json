@@ -1,0 +1,8 @@
+{
+    "elementChanges": [
+        {
+            "name": "table",
+            "classes": "table table-sm table-hover table-striped"
+        }
+    ]
+}

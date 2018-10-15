@@ -1,0 +1,18 @@
+[
+    {
+        "tabID": "home",
+        "title": "Home"
+    },
+    {
+        "tabID": "images",
+        "title": "Images"
+    },
+    {
+        "tabID": "test-table",
+        "title": "Test Table"
+    },
+    {
+        "tabID": "aboutus",
+        "title": "About Us"
+    }
+]
