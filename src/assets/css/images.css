@@ -29,29 +29,6 @@
         padding-right: 0em;
     }
 }
-.homeImg {
-    content: url('../images//IMG_4238-1.png');
-}
-
-.img-page-one {
-    content: url('../images/AfterlightImage.png');
-}
-
-.img-page-two {
-    content: url('../images/IMG_4192-1.png');
-}
-
-.img-page-three {
-    content: url('../images/IMG_4198-1.png');
-}
-
-.aboutUs-pic-1, .aboutUs-pic-1::after {
-    content: url('../images/save-new.png');
-}
-
-.aboutUs-pic-2, .aboutUs-pic-2::after {
-    content: url('../images/IMG_3830.png');
-}
 
 .img-pointer {
     cursor: pointer;
